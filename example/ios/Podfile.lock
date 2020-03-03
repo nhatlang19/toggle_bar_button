@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - toggle_bar_button (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - toggle_bar_button (from `.symlinks/plugins/toggle_bar_button/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  toggle_bar_button:
+    :path: ".symlinks/plugins/toggle_bar_button/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  toggle_bar_button: d8b68da935393884a05260628f11584ca7edb001
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.9.0.beta.2

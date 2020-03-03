@@ -6,7 +6,19 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e02bc3-341f-4bf8-a963-8c51a0062893" name="Default Changelist" comment="" />
+    <list default="true" id="c7e02bc3-341f-4bf8-a963-8c51a0062893" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/example_lib_main_dart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/example_lib_main_dart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/toggle_bar_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/toggle_bar_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/toggle_bar_button_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/toggle_bar_button_test.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -30,7 +45,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="ServiceViewManager">
@@ -55,11 +77,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583207670968</updated>
-      <workItem from="1583207672762" duration="130000" />
+      <workItem from="1583207672762" duration="2815000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1225" height="257" key="GridCell.Tab.0.bottom" timestamp="1583209594899">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1225" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960/1680.23.1920.1057@0.23.1680.960" timestamp="1583209594899" />
+    <state width="1225" height="257" key="GridCell.Tab.0.center" timestamp="1583209594898">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1225" height="257" key="GridCell.Tab.0.center/0.23.1680.960/1680.23.1920.1057@0.23.1680.960" timestamp="1583209594898" />
+    <state width="1225" height="257" key="GridCell.Tab.0.left" timestamp="1583209594898">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1225" height="257" key="GridCell.Tab.0.left/0.23.1680.960/1680.23.1920.1057@0.23.1680.960" timestamp="1583209594898" />
+    <state width="1225" height="257" key="GridCell.Tab.0.right" timestamp="1583209594899">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1225" height="257" key="GridCell.Tab.0.right/0.23.1680.960/1680.23.1920.1057@0.23.1680.960" timestamp="1583209594899" />
   </component>
 </project>
