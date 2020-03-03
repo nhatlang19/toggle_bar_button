@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e02bc3-341f-4bf8-a963-8c51a0062893" name="Default Changelist" comment="" />
+    <list default="true" id="c7e02bc3-341f-4bf8-a963-8c51a0062893" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583207670968</updated>
-      <workItem from="1583207672762" duration="3032000" />
+      <workItem from="1583207672762" duration="3120000" />
     </task>
     <servers />
   </component>
