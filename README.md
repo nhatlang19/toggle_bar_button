@@ -4,7 +4,7 @@
 
 A dart package to display a horizontal bar of customisable toggle tabs. Supports iOS and Android.
 
-<img src="https://github.com/nhatlang19/toggle_bar_button/blob/master/demo.gif" height="512">
+<img src="https://raw.githubusercontent.com/nhatlang19/toggle_bar_button/master/demo.gif" height="512">
 
 ## Installation
 Depend on it.
