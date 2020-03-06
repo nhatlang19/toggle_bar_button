@@ -6,3 +6,7 @@
 
 * Add LICENSE
 * Update README.md
+
+## 1.0.1
+
+* Bugs fix

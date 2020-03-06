@@ -1,6 +1,6 @@
 name: toggle_bar_button
 description: A dart package to display a horizontal bar of customisable toggle tabs. Supports iOS and Android.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/nhatlang19/toggle_bar_button
 
 environment:
