@@ -153,7 +153,7 @@ class ToggleBarButtonState extends State<ToggleBarButton> {
       return BoxDecoration(
           color: getItemBackgroundColor(index),
           border: Border.all(
-            color: Colors.amber[800],
+            color: this._borderColor,
           ),
           borderRadius: new BorderRadius.only(
               topRight: Radius.circular(this._radius),
